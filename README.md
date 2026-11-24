@@ -11,9 +11,10 @@ majoring in **Cyber, Computer Science, and Physics**.
 * 🎮 Passionate about gaming and occasionally raging at them
 
 ### Languages
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
-
-*Also experienced with **Assembly (TASM)***
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java" height="48" />
+</a>
+<img src="./asm.svg" height="48" alt="Assembly" />
 
 ### Tools & Environment
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,windows,discord)](https://skillicons.dev)
