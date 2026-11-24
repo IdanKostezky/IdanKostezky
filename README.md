@@ -11,8 +11,8 @@ majoring in **Cyber, Computer Science, and Physics**.
 
 ### Tech Stack & Tools
 
-**Languages**
-`C` • `C++` • `Python` • `Java` • `Assembly (TASM)`
+### Languages
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 
-**Tools & Environment**
-`VS Code` • `Git` • `GitHub` • `Windows` • `Discord`
+### Tools & Environment
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,windows,discord)](https://skillicons.dev)
