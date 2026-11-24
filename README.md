@@ -1,6 +1,8 @@
 # Hi, I'm Idan Kostezky 👋
 
-I'm a 17 year old high school senior majoring in **Cyber, Computer Science, and Physics**.
+### Education
+I'm a 17 year old high school senior 
+majoring in **Cyber, Computer Science, and Physics**.
 
 ### About Me
 * 🐶 Proud dog owner
