@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**IdanKostezky/IdanKostezky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year old high school senior 
+majoring in **Cyber, Computer Science, and Physics**. 
 
-Here are some ideas to get you started:
+### About Me
+* 🐶 Proud dog owner
+* 🚫 Not a coffee person
+* 🏋️‍♂️ Love to train, study, and build overly ambitious projects (and refusing to give up when they break)
+* 🎮 Passionate about gaming and occasionally raging at them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+
+**Languages**
+`C` • `C++` • `Python` • `Java` • `Assembly (TASM)`
+
+**Tools & Environment**
+`VS Code` • `Git` • `GitHub` • `Windows` • `Discord`
